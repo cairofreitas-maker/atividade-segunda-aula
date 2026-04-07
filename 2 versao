@@ -1,11 +1,5 @@
 #segunda versao do cod de pythob dos dados hospitalares
 
-Cairo Felix Freitas <cairo.freitas@ba.estudante.senai.br>
-	
-qua., 1 de abr., 15:44 (há 6 dias)
-	
-	
-para supernija657
 import os
 os.system("cls")
 
